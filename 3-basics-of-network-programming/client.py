@@ -4,41 +4,42 @@ from sys import argv, exit
 import time
 
 from common.utils import Utils
+from common.variables import *
 
 
 class Client(Utils):
     def __init__(self):
-        self.server_address: str = self.DEFAULT_IP_ADDRESS
-        self.server_port: int = self.DEFAULT_PORT
+        self.server_address: str = DEFAULT_IP_ADDRESS
+        self.server_port: int = DEFAULT_PORT
 
     def create_presence(self) -> dict:
         out = {
-            self.ACTION: self.PRESENCE,
-            self.TIME: time.time(),
-            self.USER: {
-                self.ACCOUNT_NAME: self.ANON_ACCOUNT_NAME,
+            ACTION: PRESENCE,
+            TIME: time.time(),
+            USER: {
+                ACCOUNT_NAME: ANON_ACCOUNT_NAME,
             },
         }
         return out
 
     def parse_server_message(self, message: dict) -> str:
-        if self.RESPONSE in message:
-            if message[self.RESPONSE] == self.STATUS_OK:
-                return f'{self.STATUS_OK} OK'
-            return f'{self.STATUS_BAD_REQUEST} {message[self.ERROR]}'
+        if RESPONSE in message:
+            if message[RESPONSE] == STATUS_OK:
+                return f'{STATUS_OK} OK'
+            return f'{STATUS_BAD_REQUEST} {message[ERROR]}'
         raise ValueError
 
     def main(self):
         try:
             server_address = argv[1]
             server_port = int(argv[2])
-            if server_port < self.MIN_PORT_NUMBER or server_port > self.MAX_PORT_NUMBER:
+            if server_port < MIN_PORT_NUMBER or server_port > MAX_PORT_NUMBER:
                 raise ValueError('недопустимый номер порта')
         except IndexError:
             pass
         except ValueError:
-            print(f'В качестве порта может быть указано только число в диапазоне от {self.MIN_PORT_NUMBER} до '
-                  f'{self.MAX_PORT_NUMBER}.')
+            print(f'в качестве порта может быть указано только число в диапазоне от {MIN_PORT_NUMBER} до '
+                  f'{MAX_PORT_NUMBER}.')
             exit(1)
 
         transport = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

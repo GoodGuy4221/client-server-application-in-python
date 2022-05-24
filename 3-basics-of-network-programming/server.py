@@ -3,37 +3,38 @@ from sys import argv, exit
 import json
 
 from common.utils import Utils
+from common.variables import *
 
 
 class Server(Utils):
     def __init__(self):
-        self.listen_address: str = self.DEFAULT_LISTEN_ADDRESS
-        self.listen_port: int = self.DEFAULT_PORT
+        self.listen_address: str = DEFAULT_LISTEN_ADDRESS
+        self.listen_port: int = DEFAULT_PORT
 
     def process_client_message(self, message: dict) -> dict:
-        if (self.ACTION in message and
-                message[self.ACTION] == self.PRESENCE and
-                self.TIME in message and
-                self.USER in message and
-                message[self.USER][self.ACCOUNT_NAME] == self.ANON_ACCOUNT_NAME):
-            return {self.RESPONSE: 200}
+        if (ACTION in message and
+                message[ACTION] == PRESENCE and
+                TIME in message and
+                USER in message and
+                message[USER][ACCOUNT_NAME] == ANON_ACCOUNT_NAME):
+            return {RESPONSE: 200}
         return {
-            self.RESPONDEFAULT_IP_ADDRESSSE: 400,
-            self.ERROR: 'Bad Request',
+            RESPONDEFAULT_IP_ADDRESSSE: 400,
+            ERROR: 'Bad Request',
         }
 
     def main(self):
         if '-p' in argv:
             try:
                 self.listen_port = int(argv[argv.index('-p') + 1])
-                if self.listen_port < self.MIN_PORT_NUMBER or self.listen_port > self.MAX_PORT_NUMBER:
+                if self.listen_port < MIN_PORT_NUMBER or self.listen_port > MAX_PORT_NUMBER:
                     raise ValueError('недопустимый номер порта')
             except IndexError:
-                print('После параметра -\'p\' необходимо указать номер порта.')
+                print('после параметра -\'p\' необходимо указать номер порта.')
                 exit(1)
             except ValueError:
-                print(f'В качестве порта может быть указано только число в диапазоне от {self.MIN_PORT_NUMBER} до '
-                      f'{self.MAX_PORT_NUMBER}.')
+                print(f'в качестве порта может быть указано только число в диапазоне от {MIN_PORT_NUMBER} до '
+                      f'{MAX_PORT_NUMBER}.')
                 exit(1)
 
         if '-a' in argv:
@@ -47,10 +48,10 @@ class Server(Utils):
         transport = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         transport.bind((self.listen_address, self.listen_port))
 
-        transport.listen(self.MAX_CONNECTIONS)
+        transport.listen(MAX_CONNECTIONS)
 
         while True:
-            print('сервер запущен')
+            print('сервер ожидает запроса')
             client, client_address = transport.accept()
             print(f'пришел запрос {client} от клиента с адресом {client_address}')
             try:
@@ -61,7 +62,7 @@ class Server(Utils):
                 print('отправлен ответ клиенту')
                 client.close()
             except (ValueError, json.JSONDecodeError):
-                print('Принято не корректное сообщение от клиента.')
+                print('принято не корректное сообщение от клиента.')
                 client.close()
 
 
