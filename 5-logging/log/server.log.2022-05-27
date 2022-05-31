@@ -1,0 +1,44 @@
+2022-05-27 13:10:14,844 DEBUG debug check server_log_config.py
+2022-05-27 13:10:14,844 INFO info check server_log_config.py
+2022-05-27 13:10:14,844 WARNING warning check server_log_config.py
+2022-05-27 13:10:14,845 ERROR error check server_log_config.py
+2022-05-27 13:10:14,845 CRITICAL critical check server_log_config.py
+2022-05-27 13:58:27,317 DEBUG debug check server_log_config.py
+2022-05-27 13:58:27,317 INFO info check server_log_config.py
+2022-05-27 13:58:27,317 WARNING warning check server_log_config.py
+2022-05-27 13:58:27,317 ERROR error check server_log_config.py
+2022-05-27 13:58:27,317 CRITICAL critical check server_log_config.py
+2022-05-27 13:58:43,555 DEBUG debug check server_log_config.py
+2022-05-27 13:58:43,555 INFO info check server_log_config.py
+2022-05-27 13:58:43,555 WARNING warning check server_log_config.py
+2022-05-27 13:58:43,555 ERROR error check server_log_config.py
+2022-05-27 13:58:43,555 CRITICAL critical check server_log_config.py
+2022-05-27 14:01:11,537 DEBUG debug check server_log_config.py
+2022-05-27 14:01:11,537 INFO info check server_log_config.py
+2022-05-27 14:01:11,537 WARNING warning check server_log_config.py
+2022-05-27 14:01:11,537 ERROR error check server_log_config.py
+2022-05-27 14:01:11,537 CRITICAL critical check server_log_config.py
+2022-05-27 14:03:39,958 DEBUG debug check server_log_config.py
+2022-05-27 14:03:39,973 INFO info check server_log_config.py
+2022-05-27 14:03:39,973 WARNING warning check server_log_config.py
+2022-05-27 14:03:39,973 ERROR error check server_log_config.py
+2022-05-27 14:03:39,973 CRITICAL critical check server_log_config.py
+2022-05-27 14:05:11,675 DEBUG debug check server_log_config.py
+2022-05-27 14:05:11,675 INFO info check server_log_config.py
+2022-05-27 14:05:11,675 WARNING warning check server_log_config.py
+2022-05-27 14:05:11,675 ERROR error check server_log_config.py
+2022-05-27 14:05:11,675 CRITICAL critical check server_log_config.py
+2022-05-27 15:35:59,418 INFO Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. server.py
+2022-05-27 15:40:35,248 INFO Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: любой. Если адрес не указан, принимаются соединения с любых адресов. server.py
+2022-05-27 15:40:35,248 INFO сервер ожидает запроса server.py
+2022-05-27 15:40:42,117 INFO Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: любой. Если адрес не указан, принимаются соединения с любых адресов. server.py
+2022-05-27 15:40:42,117 INFO сервер ожидает запроса server.py
+2022-05-27 15:41:32,953 INFO Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: любой. Если адрес не указан, принимаются соединения с любых адресов. server.py
+2022-05-27 15:41:32,953 INFO сервер ожидает запроса server.py
+2022-05-27 15:41:39,971 INFO Установлено соединение с ('127.0.0.1', 59704) server.py
+2022-05-27 15:41:39,971 DEBUG Получено сообщение {'action': 'presence', 'time': 1653651699.9710011, 'user': {'account_name': 'anonymous'}} server.py
+2022-05-27 15:41:39,971 DEBUG Разбор сообщения от клиента : {'action': 'presence', 'time': 1653651699.9710011, 'user': {'account_name': 'anonymous'}} server.py
+2022-05-27 15:41:39,971 INFO Сформирован ответ клиенту {'response': 200} server.py
+2022-05-27 15:41:39,971 INFO Отправлен ответ клиенту {'response': 200} server.py
+2022-05-27 15:41:39,971 DEBUG Соединение с клиентом ('127.0.0.1', 59704) закрылось. server.py
+2022-05-27 15:41:39,971 INFO сервер ожидает запроса server.py
