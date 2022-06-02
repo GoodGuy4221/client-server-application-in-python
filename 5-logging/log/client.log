@@ -1,0 +1,389 @@
+2022-05-27 13:18:48,159 DEBUG debug check
+2022-05-27 13:18:48,159 INFO info check
+2022-05-27 13:18:48,159 WARNING warning check
+2022-05-27 13:18:48,159 ERROR error check
+2022-05-27 13:18:48,159 CRITICAL critical check
+2022-05-27 14:08:46,873 DEBUG debug check client_log_config.py
+2022-05-27 14:08:46,873 INFO info check client_log_config.py
+2022-05-27 14:08:46,873 WARNING warning check client_log_config.py
+2022-05-27 14:08:46,873 ERROR error check client_log_config.py
+2022-05-27 14:08:46,873 CRITICAL critical check client_log_config.py
+2022-05-27 14:10:26,747 DEBUG debug check client_log_config.py
+2022-05-27 14:10:26,747 INFO info check client_log_config.py
+2022-05-27 14:10:26,747 WARNING warning check client_log_config.py
+2022-05-27 14:10:26,747 ERROR error check client_log_config.py
+2022-05-27 14:10:26,747 CRITICAL critical check client_log_config.py
+2022-05-27 15:20:03,168 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:20:03,168 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-27 15:20:03,168 INFO отправлено сообщение: {'action': 'presence', 'time': 1653650403.1682851, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-27 15:20:03,168 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-27 15:20:03,168 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-27 15:20:40,836 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:20:40,836 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-27 15:20:40,836 INFO отправлено сообщение: {'action': 'presence', 'time': 1653650440.8367105, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-27 15:20:48,277 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:41:08,413 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:41:08,413 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-27 15:41:08,413 INFO отправлено сообщение: {'action': 'presence', 'time': 1653651668.4136767, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-27 15:41:15,088 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:41:39,971 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-27 15:41:39,971 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-27 15:41:39,971 INFO отправлено сообщение: {'action': 'presence', 'time': 1653651699.9710011, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-27 15:41:39,971 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-27 15:41:39,971 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 10:54:35,132 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 10:54:35,132 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 10:54:35,147 INFO отправлено сообщение: {'action': 'presence', 'time': 1653980075.1322267, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 10:54:35,147 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 10:54:35,147 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 10:59:16,520 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 10:59:16,521 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 10:59:16,521 INFO отправлено сообщение: {'action': 'presence', 'time': 1653980356.5217297, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 10:59:16,522 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 10:59:16,523 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:39:02,786 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:39:02,786 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:39:02,786 INFO отправлено сообщение: {'action': 'presence', 'time': 1653982742.7863429, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:39:02,786 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:39:02,786 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:40:04,661 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:40:04,661 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:40:04,661 INFO отправлено сообщение: {'action': 'presence', 'time': 1653982804.661359, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:40:04,661 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:40:04,661 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:41:31,105 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:41:31,105 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:41:31,105 INFO отправлено сообщение: {'action': 'presence', 'time': 1653982891.1057868, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:41:31,105 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:41:31,105 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:42:26,388 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:42:26,388 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:42:26,404 INFO отправлено сообщение: {'action': 'presence', 'time': 1653982946.3884506, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:42:26,404 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:42:26,404 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:42:54,955 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:42:54,970 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:42:54,970 INFO отправлено сообщение: {'action': 'presence', 'time': 1653982974.9708939, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:42:54,970 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:42:54,970 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:43:34,659 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:43:34,659 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:43:34,659 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983014.6591322, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:43:34,659 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:43:34,659 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:43:53,988 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:43:53,988 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:43:53,988 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983033.9885747, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:43:53,988 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:43:53,988 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:47:10,622 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:47:10,622 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:47:10,622 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983230.6220496, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:47:10,622 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:47:10,622 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:49:03,944 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:49:03,944 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:49:03,944 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983343.9447854, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:49:03,944 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:49:03,944 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:49:53,979 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:49:53,979 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:49:53,979 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983393.9797573, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:49:53,979 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:49:53,979 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:53:47,105 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:53:47,105 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:53:47,105 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983627.1057727, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:53:47,105 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:53:47,105 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 11:56:43,605 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 11:56:43,605 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 11:56:43,605 INFO отправлено сообщение: {'action': 'presence', 'time': 1653983803.605892, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 11:56:43,605 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 11:56:43,605 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:01:37,491 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:01:37,491 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:01:37,491 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984097.4910402, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:01:37,491 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:01:37,491 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:02:13,006 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:02:13,006 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:02:13,006 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984133.0068643, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:02:13,006 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:02:13,006 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:03:32,501 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:03:32,501 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:03:32,517 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984212.50164, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:03:32,517 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:03:32,517 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:04:54,621 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:04:54,621 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:04:54,621 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984294.6215959, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:04:54,621 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:04:54,621 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:05:08,175 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:05:08,191 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:05:08,191 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984308.191174, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:05:08,191 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:05:08,191 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:06:46,308 DEBUG Вызов функции main с параметрами (<__main__.Client object at 0x00000239AC891F30>,) и {} decorators.py
+2022-05-31 12:06:46,308 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:06:46,308 DEBUG Вызов функции create_presence с параметрами (<__main__.Client object at 0x00000239AC891F30>,) и {} decorators.py
+2022-05-31 12:06:46,308 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:06:46,308 INFO отправлено сообщение: {'action': 'presence', 'time': 1653984406.3083053, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:06:46,308 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:06:46,308 DEBUG Вызов функции parse_server_message с параметрами (<__main__.Client object at 0x00000239AC891F30>, {'response': 200}) и {} decorators.py
+2022-05-31 12:06:46,308 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:24:50,378 DEBUG Вызов функции main из модуля __main__ с параметрами (<__main__.Client object at 0x00000273D08D8730>,) и {} decorators.py
+2022-05-31 12:24:50,378 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:24:50,378 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x00000273D08D8730>,) и {} decorators.py
+2022-05-31 12:24:50,378 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:24:50,378 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000273D08D8730>, <socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49744), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653985490.3780725, 'user': {'account_name': 'anonymous'}}) и {} decorators.py
+2022-05-31 12:24:50,378 INFO отправлено сообщение: {'action': 'presence', 'time': 1653985490.3780725, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:24:50,378 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000273D08D8730>, <socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49744), raddr=('127.0.0.1', 7777)>) и {} decorators.py
+2022-05-31 12:24:50,393 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:24:50,393 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x00000273D08D8730>, {'response': 200}) и {} decorators.py
+2022-05-31 12:24:50,393 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:28:02,583 DEBUG Вызов функции main из модуля __main__ с параметрами (<__main__.Client object at 0x000001F5ADA48760>,) и {}, функцией <module> из модуля. decorators.py
+2022-05-31 12:28:02,583 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:28:02,598 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x000001F5ADA48760>,) и {}, функцией main из модуля. decorators.py
+2022-05-31 12:28:02,598 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:28:02,598 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001F5ADA48760>, <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49750), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653985682.5986824, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля. decorators.py
+2022-05-31 12:28:02,598 INFO отправлено сообщение: {'action': 'presence', 'time': 1653985682.5986824, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:28:02,598 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001F5ADA48760>, <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49750), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля. decorators.py
+2022-05-31 12:28:02,598 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:28:02,598 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x000001F5ADA48760>, {'response': 200}) и {}, функцией main из модуля. decorators.py
+2022-05-31 12:28:02,598 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:30:18,510 DEBUG Вызов функции main из модуля __main__ с параметрами (<__main__.Client object at 0x0000020FBA558760>,) и {}, функцией <module> из модуля client.py. decorators.py
+2022-05-31 12:30:18,510 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:30:18,526 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x0000020FBA558760>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:30:18,526 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:30:18,526 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000020FBA558760>, <socket.socket fd=464, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49761), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653985818.5263333, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:30:18,526 INFO отправлено сообщение: {'action': 'presence', 'time': 1653985818.5263333, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:30:18,526 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000020FBA558760>, <socket.socket fd=464, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49761), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:30:18,526 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:30:18,526 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x0000020FBA558760>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:30:18,526 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 12:55:03,531 DEBUG Вызов функции main из модуля __main__ с параметрами (<__main__.Client object at 0x0000018A053A89D0>,) и {}, функцией <module> из модуля client.py.С комментарием no comments decorators.py
+2022-05-31 12:55:03,531 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 12:55:03,531 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x0000018A053A89D0>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:55:03,531 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 12:55:03,531 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000018A053A89D0>, <socket.socket fd=440, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52151), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987303.5312693, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:55:03,531 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987303.5312693, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 12:55:03,531 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000018A053A89D0>, <socket.socket fd=440, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52151), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:55:03,531 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 12:55:03,531 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x0000018A053A89D0>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 12:55:03,546 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:00:14,920 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x00000190F43A4A30>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:00:14,920 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:00:14,920 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x00000190F43A4A30>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:00:14,920 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:00:14,920 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000190F43A4A30>, <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52194), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987614.92032, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:00:14,920 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987614.92032, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:00:14,920 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000190F43A4A30>, <socket.socket fd=272, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52194), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:00:14,920 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:00:14,920 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x00000190F43A4A30>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:00:14,935 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:02:29,879 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001761E588A30>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:02:29,879 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:02:29,879 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x000001761E588A30>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:29,879 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:02:29,879 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001761E588A30>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52200), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987749.8799863, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:29,879 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987749.8799863, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:02:29,879 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001761E588A30>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52200), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:29,895 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:02:29,895 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x000001761E588A30>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:29,895 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:02:49,273 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001B8E3948A30>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:02:49,273 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:02:49,273 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x000001B8E3948A30>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:49,273 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:02:49,273 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001B8E3948A30>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52201), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987769.273221, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:49,273 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987769.273221, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:02:49,273 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x000001B8E3948A30>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52201), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:49,288 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:02:49,288 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x000001B8E3948A30>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:02:49,288 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:03:36,831 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000021C8D434A30>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:03:36,831 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:03:36,831 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x0000021C8D434A30>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:03:36,831 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:03:36,846 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000021C8D434A30>, <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52205), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987816.8310864, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:03:36,846 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987816.8310864, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:03:36,846 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x0000021C8D434A30>, <socket.socket fd=492, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52205), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:03:36,846 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:03:36,846 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x0000021C8D434A30>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:03:36,846 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:05:47,924 DEBUG Вызов функции main из модуля __main__ с параметрами (<__main__.Client object at 0x00000193BBB087F0>,) и {}, функцией <module> из модуля client.py. decorators.py
+2022-05-31 13:05:47,924 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:05:47,924 DEBUG Вызов функции create_presence из модуля __main__ с параметрами (<__main__.Client object at 0x00000193BBB087F0>,) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:05:47,924 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:05:47,924 DEBUG Вызов функции send_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000193BBB087F0>, <socket.socket fd=416, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52212), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653987947.9240346, 'user': {'account_name': 'anonymous'}}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:05:47,924 INFO отправлено сообщение: {'action': 'presence', 'time': 1653987947.9240346, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:05:47,924 DEBUG Вызов функции get_message из модуля common.utils с параметрами (<__main__.Client object at 0x00000193BBB087F0>, <socket.socket fd=416, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52212), raddr=('127.0.0.1', 7777)>) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:05:47,924 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:05:47,924 DEBUG Вызов функции parse_server_message из модуля __main__ с параметрами (<__main__.Client object at 0x00000193BBB087F0>, {'response': 200}) и {}, функцией main из модуля client.py. decorators.py
+2022-05-31 13:05:47,939 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:06:40,737 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001A21DFD8820>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+ decorators.py
+2022-05-31 13:06:40,737 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:06:40,737 DEBUG Вызов функции create_presence из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001A21DFD8820>,) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:06:40,737 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:06:40,737 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000001A21DFD8820>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52213), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988000.7378552, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:06:40,737 INFO отправлено сообщение: {'action': 'presence', 'time': 1653988000.7378552, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:06:40,753 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000001A21DFD8820>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52213), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:06:40,753 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:06:40,753 DEBUG Вызов функции parse_server_message из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001A21DFD8820>, {'response': 200}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:06:40,753 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:12:36,846 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000014996AD8850>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+ decorators.py
+2022-05-31 13:12:36,846 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:12:36,846 DEBUG Вызов функции create_presence из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000014996AD8850>,) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:12:36,846 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:12:36,846 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000014996AD8850>, <socket.socket fd=420, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52227), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988356.8465233, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:12:36,846 INFO отправлено сообщение: {'action': 'presence', 'time': 1653988356.8465233, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:12:36,846 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000014996AD8850>, <socket.socket fd=420, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52227), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:12:36,862 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:12:36,862 DEBUG Вызов функции parse_server_message из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000014996AD8850>, {'response': 200}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:12:36,862 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:14:27,274 DEBUG Вызов функции log.decorators из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000013AF6418850>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+ decorators.py
+2022-05-31 13:14:27,274 INFO Запущен клиент с параметрами, адрес сервера: 127.0.0.1, порт: 7777 client.py
+2022-05-31 13:14:27,274 DEBUG Вызов функции log.decorators из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000013AF6418850>,) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:14:27,274 DEBUG Сформировано presence сообщение для пользователя anonymous client.py
+2022-05-31 13:14:27,274 DEBUG Вызов функции log.decorators из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000013AF6418850>, <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52234), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988467.2742338, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:14:27,274 INFO отправлено сообщение: {'action': 'presence', 'time': 1653988467.2742338, 'user': {'account_name': 'anonymous'}} серверу client.py
+2022-05-31 13:14:27,274 DEBUG Вызов функции log.decorators из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000013AF6418850>, <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52234), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:14:27,289 INFO Принят ответ от сервера {'response': 200} client.py
+2022-05-31 13:14:27,289 DEBUG Вызов функции log.decorators из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000013AF6418850>, {'response': 200}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:14:27,289 DEBUG Разбор сообщения от сервера: {'response': 200} client.py
+2022-05-31 13:17:26,202 DEBUG Вызов функции wraps из модуля functools 
+с параметрами позиционными (<__main__.Client object at 0x000002B856FE8460>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+ decorators.py
+2022-05-31 13:17:26,202 DEBUG Вызов функции wraps из модуля functools 
+с параметрами позиционными (<__main__.Client object at 0x000002B856FE8460>,) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:17:26,202 DEBUG Вызов функции wraps из модуля functools 
+с параметрами позиционными (<__main__.Client object at 0x000002B856FE8460>, <socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52246), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988646.2025352, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:17:26,218 DEBUG Вызов функции wraps из модуля functools 
+с параметрами позиционными (<__main__.Client object at 0x000002B856FE8460>, <socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52246), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:17:26,218 DEBUG Вызов функции wraps из модуля functools 
+с параметрами позиционными (<__main__.Client object at 0x000002B856FE8460>, {'response': 200}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:18:41,545 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000002641FDB8490>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:18:41,545 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000002641FDB8490>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52247), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988721.5459425, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:18:41,545 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000002641FDB8490>, <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52247), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:19:47,148 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000002AA022B8490>,) и именованными нет, 
+функцией <module> из модуля client.py. 
+С комментарием «no comments».jhgfjgj
+ decorators.py
+2022-05-31 13:19:47,148 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000002AA022B8490>, <socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52248), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653988787.1480134, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:19:47,148 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000002AA022B8490>, <socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52248), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:23:24,110 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x0000023A3A928490>,) и именованными нет, 
+функцией client.main() из модуля client.py. 
+С комментарием «no comments».jhgfjgj
+ decorators.py
+2022-05-31 13:23:24,126 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000023A3A928490>, <socket.socket fd=468, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52254), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653989004.110708, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:23:24,126 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x0000023A3A928490>, <socket.socket fd=468, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52254), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:30:29,941 DEBUG Вызов функции main из модуля __main__ 
+с параметрами позиционными (<__main__.Client object at 0x000001B551A98430>,) и именованными нет, 
+функцией client.main() из модуля client.py. 
+С комментарием «no comments».
+ decorators.py
+2022-05-31 13:30:29,973 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000001B551A98430>, <socket.socket fd=152, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52270), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1653989429.9418988, 'user': {'account_name': 'anonymous'}}) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py
+2022-05-31 13:30:29,973 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Client object at 0x000001B551A98430>, <socket.socket fd=152, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52270), raddr=('127.0.0.1', 7777)>) и именованными нет, 
+функцией main из модуля client.py. 
+ decorators.py

@@ -56,7 +56,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
+# *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -133,7 +133,7 @@ dmypy.json
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,django,venv
 
 ### Django ###
-*.log
+# *.log
 *.pot
 *.pyc
 __pycache__/
