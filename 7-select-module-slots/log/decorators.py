@@ -9,7 +9,6 @@ from functools import wraps
 sys.path.append('..')
 import log.client_log_config
 import log.server_log_config
-import log.client_send_log_config
 
 name_coll_module = sys.argv[0].split('/')[-1]
 
@@ -18,8 +17,6 @@ match name_coll_module:
         LOGGER = logging.getLogger('client_logger')
     case 'server.py':
         LOGGER = logging.getLogger('server_logger')
-    case 'client_send.py':
-        LOGGER = logging.getLogger('client_send_logger')
     case _:
         raise NameError
 
