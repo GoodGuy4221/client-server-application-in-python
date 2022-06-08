@@ -2664,3 +2664,102 @@
 функцией process_message из модуля server.py. 
  decorators.py
 2022-06-08 12:12:56,180 INFO Отправлено сообщение пользователю CLIENT1 от пользователя CLIENT3. server.py
+2022-06-08 12:22:27,033 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50878)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:22:27,033 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:22:27,033 DEBUG Разбор сообщения от клиента : {'action': 'message', 'from': 'CLIENT2', 'to': 'CLIENT3', 'time': 1654676546.7993152, 'message_text': 'soluyan51'} server.py
+2022-06-08 12:22:27,033 DEBUG Вызов функции process_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:22:27,049 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50877)>, {'action': 'message', 'from': 'CLIENT2', 'to': 'CLIENT3', 'time': 1654676546.7993152, 'message_text': 'soluyan51'}) и именованными нет, 
+функцией process_message из модуля server.py. 
+ decorators.py
+2022-06-08 12:22:27,049 INFO Отправлено сообщение пользователю CLIENT3 от пользователя CLIENT2. server.py
+2022-06-08 12:23:45,864 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:23:45,864 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:23:45,864 DEBUG Разбор сообщения от клиента : {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676625.8486183, 'message_text': 'ghdfhhj'} server.py
+2022-06-08 12:23:45,864 DEBUG Вызов функции process_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:23:45,864 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>, {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676625.8486183, 'message_text': 'ghdfhhj'}) и именованными нет, 
+функцией process_message из модуля server.py. 
+ decorators.py
+2022-06-08 12:23:45,864 INFO Отправлено сообщение пользователю CLIENT1 от пользователя CLIENT1. server.py
+2022-06-08 12:24:22,714 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:22,714 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:22,714 DEBUG Разбор сообщения от клиента : {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676662.2301116, 'message_text': 'fgdhhdfgh'} server.py
+2022-06-08 12:24:22,714 DEBUG Вызов функции process_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:22,714 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>, {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676662.2301116, 'message_text': 'fgdhhdfgh'}) и именованными нет, 
+функцией process_message из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:22,714 INFO Отправлено сообщение пользователю CLIENT1 от пользователя CLIENT1. server.py
+2022-06-08 12:24:40,892 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:40,892 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:40,892 DEBUG Разбор сообщения от клиента : {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676680.4235744, 'message_text': 'hghdfhfh'} server.py
+2022-06-08 12:24:40,908 DEBUG Вызов функции process_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:40,908 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>, {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT1', 'time': 1654676680.4235744, 'message_text': 'hghdfhfh'}) и именованными нет, 
+функцией process_message из модуля server.py. 
+ decorators.py
+2022-06-08 12:24:40,908 INFO Отправлено сообщение пользователю CLIENT1 от пользователя CLIENT1. server.py
+2022-06-08 12:25:05,173 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:05,173 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:05,173 DEBUG Разбор сообщения от клиента : {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT2', 'time': 1654676704.9548142, 'message_text': 'gfdhdfghgdfj'} server.py
+2022-06-08 12:25:05,173 DEBUG Вызов функции process_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:05,173 DEBUG Вызов функции send_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50878)>, {'action': 'message', 'from': 'CLIENT1', 'to': 'CLIENT2', 'time': 1654676704.9548142, 'message_text': 'gfdhdfghgdfj'}) и именованными нет, 
+функцией process_message из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:05,173 INFO Отправлено сообщение пользователю CLIENT2 от пользователя CLIENT1. server.py
+2022-06-08 12:25:24,363 DEBUG Вызов функции get_message из модуля common.utils 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>, <socket.socket fd=328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50876)>) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:24,363 DEBUG Вызов функции process_client_message из модуля __main__ 
+с параметрами позиционными (<__main__.Server object at 0x000001ECE68449A0>,) и именованными нет, 
+функцией main из модуля server.py. 
+ decorators.py
+2022-06-08 12:25:24,363 DEBUG Разбор сообщения от клиента : {'action': 'exit', 'time': 1654676724.0505636, 'account_name': 'CLIENT1'} server.py
