@@ -112,7 +112,7 @@ class Client(Utils):
                 ACCOUNT_NAME: self.account_name,
             },
         }
-        # CLIENT_LOGGER.debug(f'Сформировано {PRESENCE} сообщение для пользователя {out.get(USER).get(ACCOUNT_NAME)}')
+        CLIENT_LOGGER.debug(f'Сформировано {PRESENCE} сообщение для пользователя {out.get(USER).get(ACCOUNT_NAME)}')
         self.presence_request = out
 
     # @log
@@ -167,13 +167,13 @@ class Client(Utils):
     @Log()
     def main(self):
         self.arguments_parser()
-        # CLIENT_LOGGER.info(
-        #     f'Запущен клиент с параметрами, адрес сервера: {self.server_address}, порт: {self.server_port}, '
-        #     f'режим работы: {self.client_mode}')
-        sys.stdout.write(f'Консольный мессенджер. Клиентский модуль. Имя пользователя: {self.account_name}')
+        CLIENT_LOGGER.info(
+            f'Запущен клиент с параметрами, адрес сервера: {self.server_address}, порт: {self.server_port}.')
+
         if not self.account_name:
             while self.account_name is None:
                 self.set_user_name()
+        sys.stdout.write(f'Консольный мессенджер. Клиентский модуль. Имя пользователя: {self.account_name}')
 
         try:
             self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
